@@ -1,0 +1,3 @@
+function findHighestScoringStudent(students) {
+    // TODO
+  }
