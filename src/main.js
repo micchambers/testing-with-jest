@@ -9,4 +9,4 @@ function findHighestScoringStudent(students) {
     // TODO
   }
 
-  modules.exports = findHighestScoringStudent;
+  module.exports = findHighestScoringStudent;
